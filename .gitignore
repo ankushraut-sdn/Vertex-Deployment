@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*.gguf
+.DS_Store
+vlang
+.locks*
+*blobs*
+*snapshots*
+*copy*
+*.pyc
+**/model*
+*~*
+*RESULTSDL.ZIP
+*ZIPFILE.ZIP
+.env
+**/venv*/
