@@ -3,8 +3,6 @@
 ## 1. Project Overview
 
 **Project Name:** Vertex-Deployment (Benefits Eligibility Model)
-**Project Type:** ML model deployment (Google Cloud Vertex AI)
-**Status:** Development
 
 ### Description
 
